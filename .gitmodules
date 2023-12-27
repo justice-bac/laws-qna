@@ -1,0 +1,3 @@
+[submodule "laws-lois-xml"]
+	path = laws-lois-xml
+	url = https://github.com/justicecanada/laws-lois-xml
